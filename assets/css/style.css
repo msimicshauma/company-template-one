@@ -208,12 +208,9 @@ a:visited {
 }
 
 @media only screen and (max-width: 600px) {
-    .content {
-        margin-top: 25px;
-    }
-    
     .content h1 {
         font-size: 28px;    
+        margin-top: 25px;
     }
     
     .content .fa-bars {
